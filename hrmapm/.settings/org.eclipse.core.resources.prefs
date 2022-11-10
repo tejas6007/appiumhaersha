@@ -1,0 +1,10 @@
+eclipse.preferences.version=1
+encoding//src/test/java/Assignment/LaunchGeneralstore.java=UTF-8
+encoding//src/test/java/actions/install_touchscreen.java=UTF-8
+encoding//src/test/java/actions/installappApI.java=UTF-8
+encoding//src/test/java/driverMethods/DragandDropeActions.java=UTF-8
+encoding//src/test/java/driverMethods/Hidekeyboard.java=UTF-8
+encoding//src/test/java/driverMethods/InstallappAPI_DR.java=UTF-8
+encoding//src/test/java/driverMethods/Network.java=UTF-8
+encoding//src/test/java/driverMethods/RotateScreen.java=UTF-8
+encoding//src/test/java/driverMethods/openNotification.java=UTF-8

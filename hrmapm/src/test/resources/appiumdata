@@ -1,0 +1,8 @@
+platformname android
+platformversion 11
+automation   appium
+appiumversion  4.1.2
+devicename redminote8
+udid 23213b123hg
+appPackage io.appium.android.apis
+appActivity .ApiDemos
